@@ -9,5 +9,3 @@ What if the PC is running an outdated version?
 Assumption: The test will be run using the most current version that contains the most up-to-date GUI (1.0.29.92)
 Assumption: Spotify will have access to communicate on network (windows firewall)
 
-
-README
